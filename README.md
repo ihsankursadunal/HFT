@@ -57,7 +57,7 @@ This is the rocket science part. First we need to determine our requirements whi
 
 ### **Algorithmic Trading Strategies**
 
-![4]
+![][4]
 
 For developing algo-trading strategy, we need a mathematical model which is generated from quantitative analysis with based on our trading style. It is important that the mathematical model used in developing the strategy should be based on sound statistical models like [Gaussian Statistical Models](https://www.investopedia.com/articles/financial-theory/10/gaussian-models-statistics.asp). Next, determine what information algo-trading agent is aiming to capture. In order to have an automated strategy, your robot needs to be able to capture identifiable, persistent market inefficiencies. Algorithmic trading strategies follow a rigid set of rules that take advantage of market behavior, and the occurrence of one-time market inefficiency is not enough to build a strategy around. Further, if the cause of the market inefficiency is unidentifiable, then there will be no way to know if the success or failure of the strategy was due to chance or not.
 
